@@ -17,7 +17,7 @@ logging.basicConfig(
 )
 logger = logging.getLogger(__name__)
 
-BOT_TOKEN = "8715766893:AAG-Lda5f3Hm8DqtHvNJrzFe1kGQUyEKF0Q"
+BOT_TOKEN = "8756172361:AAECEX6Zosl_G7pgGAVnTqLjOaXrX15GraA"
 YML_FILE_PATH = ".github/workflows/main.yml"
 BINARY_FILE_NAME = "flame"
 BINARY_STORAGE_PATH = "stored_binary.bin"
